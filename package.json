@@ -1,6 +1,7 @@
 {
   "name": "mazen-website",
   "version": "0.1.0",
+  "homepage": "https://mazux.github.io/blog/",
   "private": true,
   "dependencies": {
     "bootstrap": "^4.6.2",
